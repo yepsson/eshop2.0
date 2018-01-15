@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "katname": "Submariner",
+        "huvudkategori": 1
+        
+    },{
+        "id": 2,
+        "katname": "Colt",
+        "huvudkategori": 2
+    },{
+        "id": 3,
+        "katname": "Speedmaster",
+        "huvudkategori": 3
+    },{
+        "id": 4,
+        "katname": "PlanetOcean",
+        "huvudkategori": 3
+    },{
+        "id": 5,
+        "katname": "Daytona",
+        "huvudkategori": 1
+    },{
+        "id": 6,
+        "katname": "Daydate",
+        "huvudkategori": 1
+    },{
+        "id": 7,
+        "katname": "Seawolf",
+        "huvudkategori": 2
+    },{
+        "id": 8,
+        "katname": "Aquaterra",
+        "huvudkategori": 3
+    },{
+        "id": 9,
+        "katname": "Ploprof",
+        "huvudkategori": 3
+    },{
+        "id": 10,
+        "katname": "Aerospace",
+        "huvudkategori": 2
+    },{
+        "id": 11,
+        "katname": "Heritage",
+        "huvudkategori": 2
+    },{
+        "id": 12,
+        "katname": "Datejust",
+        "huvudkategori": 1
+    },{
+        "id": 13,
+        "katname": "Skx",
+        "huvudkategori": 4
+    },{
+        "id": 14,
+        "katname": "Sarb",
+        "huvudkategori": 4
+    },{
+        "id": 15,
+        "katname": "Prospex",
+        "huvudkategori": 4
+    }
+]

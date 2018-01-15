@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "prodName": "1.1",
+        "prodDesc": "Elgitarr med kropp av mahogny och AAA-flammigt lönntopp, mahognyhals med greppbräda av rosewood och två ProBucker pickups.",
+        "prodPrice": 6999,
+        "picture": "bild.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 2,
+        "prodName": "1.1",
+        "prodDesc": "It's a thing, fucking do things with it!",
+        "prodPrice": 5555,
+        "picture": "bild.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 3,
+        "prodName": "1.1",
+        "prodDesc": "It's a thing, fucking do things with it!",
+        "prodPrice": 6666,
+        "picture": "bild.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    }
+
+]

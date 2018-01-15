@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "prodName": "Rolex Submariner",
+        "prodDesc": "Modell:116610LN-0001<br>Serie: Submariner<br>Typ:Herrklocka<br>Diameter:Ø 40 mm<br>Tjocklek:12.8 mm<br>Vikt:151 gram",
+        "prodPrice": 6999,
+        "prodPic": "submariner1.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 2,
+        "prodName": "Rolex Submariner",
+        "prodDesc": "Modell:116610LN-0001<br>Serie: Submariner<br>Typ:Herrklocka<br>Diameter:Ø 40 mm<br>Tjocklek:12.8 mm<br>Vikt:151 gram",
+        "prodPrice": 5555,
+        "prodPic": "submariner2.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 3,
+        "prodName": "Rolex Submariner",
+        "prodDesc": "Modell:116610LN-0001<br>Serie: Submariner<br>Typ:Herrklocka<br>Diameter:Ø 40 mm<br>Tjocklek:12.8 mm<br>Vikt:151 gram",
+        "prodPrice": 6666,
+        "prodPic": "submariner3.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 4,
+        "prodName": "Rolex Submariner",
+        "prodDesc": "Modell:116610LN-0001<br>Serie: Submariner<br>Typ:Herrklocka<br>Diameter:Ø 40 mm<br>Tjocklek:12.8 mm<br>Vikt:151 gram",
+        "prodPrice": 7777,
+        "prodPic": "submariner4.jpeg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 5,
+        "prodName": "Rolex Daytona",
+        "prodDesc": "Klocka som anger tid.",
+        "prodPrice": 8888,
+        "prodPic": "daytona1.jpg",
+        "huvudKat": 1,
+        "underKat": 5
+    },
+    {
+        "id": 6,
+        "prodName": "Rolex Daytona",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 9999,
+        "prodPic": "daytona2.jpg",
+        "huvudKat": 1,
+        "underKat": 5
+    },
+    {
+        "id": 7,
+        "prodName": "Rolex Daytona",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 1111,
+        "prodPic": "daytona3.jpg",
+        "huvudKat": 1,
+        "underKat": 5
+    },
+    {
+        "id": 8,
+        "prodName": "Rolex Daytona",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "daytona4.jpg",
+        "huvudKat": 1,
+        "underKat": 5
+    },
+    {
+        "id": 9,
+        "prodName": "Rolex Daydate",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6999,
+        "prodPic": "daydate1.jpg",
+        "huvudKat": 1,
+        "underKat": 6
+    },
+    {
+        "id": 10,
+        "prodName": "Rolex Daydate",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 5555,
+        "prodPic": "daydate2.jpg",
+        "huvudKat": 1,
+        "underKat": 6
+    },
+    {
+        "id": 11,
+        "prodName": "Rolex Daydate",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6666,
+        "prodPic": "daydate3.jpg",
+        "huvudKat": 1,
+        "underKat": 6
+    },
+    {
+        "id": 12,
+        "prodName": "Rolex Daydate",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 7777,
+        "prodPic": "daydate4.jpg",
+        "huvudKat": 1,
+        "underKat": 6
+    },
+    {
+        "id": 13,
+        "prodName": "Rolex Datejust",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 8888,
+        "prodPic": "datejust1.jpg",
+        "huvudKat": 1,
+        "underKat": 12
+    },
+    {
+        "id": 14,
+        "prodName": "Rolex Datejust",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 9999,
+        "prodPic": "datejust2.jpg",
+        "huvudKat": 1,
+        "underKat": 12
+    },
+    {
+        "id": 15,
+        "prodName": "Rolex Datejust",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 1111,
+        "prodPic": "datejust3.jpg",
+        "huvudKat": 1,
+        "underKat": 12
+    },
+    {
+        "id": 16,
+        "prodName": "Rolex Datejust",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "datejust4.jpg",
+        "huvudKat": 1,
+        "underKat": 12
+    },
+    {
+        "id": 17,
+        "prodName": "Breitling Colt",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6999,
+        "prodPic": "colt1.jpg",
+        "huvudKat": 2,
+        "underKat": 2
+    },
+    {
+        "id": 18,
+        "prodName": "Breitling Colt",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 5555,
+        "prodPic": "colt2.jpg",
+        "huvudKat": 2,
+        "underKat": 2
+    },
+    {
+        "id": 19,
+        "prodName": "Breitling Colt",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6666,
+        "prodPic": "colt3.jpg",
+        "huvudKat": 2,
+        "underKat": 2
+    },
+    {
+        "id": 20,
+        "prodName": "Breitling Colt",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 7777,
+        "prodPic": "colt4.jpg",
+        "huvudKat": 2,
+        "underKat": 2
+    },
+    {
+        "id": 21,
+        "prodName": "Breitling Seawolf",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 8888,
+        "prodPic": "seawolf1.jpg",
+        "huvudKat": 2,
+        "underKat": 7
+    },
+    {
+        "id": 22,
+        "prodName": "Breitling Seawolf",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 9999,
+        "prodPic": "seawolf2.jpg",
+        "huvudKat": 2,
+        "underKat": 7
+    },
+    {
+        "id": 23,
+        "prodName": "Breitling Seawolf",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 1111,
+        "prodPic": "seawolf3.jpg",
+        "huvudKat": 2,
+        "underKat": 7
+    },
+    {
+        "id": 24,
+        "prodName": "Breitling Seawolf",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "seawolf4.jpg",
+        "huvudKat": 2,
+        "underKat": 7
+    },
+    {
+        "id": 25,
+        "prodName": "Breitling Aerospace",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6999,
+        "prodPic": "aerospace1.jpg",
+        "huvudKat": 2,
+        "underKat": 10
+    },
+    {
+        "id": 26,
+        "prodName": "Breitling Aerospace",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 5555,
+        "prodPic": "aerospace2.jpg",
+        "huvudKat": 2,
+        "underKat": 10
+    },
+    {
+        "id": 27,
+        "prodName": "Breitling Aerospace",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6666,
+        "prodPic": "aerospace3.jpg",
+        "huvudKat": 2,
+        "underKat": 10
+    },
+    {
+        "id": 28,
+        "prodName": "Breitling Aerospace",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 7777,
+        "prodPic": "aerospace4.jpg",
+        "huvudKat": 2,
+        "underKat": 10
+    },
+    {
+        "id": 29,
+        "prodName": "Breitling Heritage",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 8888,
+        "prodPic": "heritage1.jpg",
+        "huvudKat": 2,
+        "underKat": 11
+    },
+    {
+        "id": 30,
+        "prodName": "Breitling Heritage",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 9999,
+        "prodPic": "heritage2.jpg",
+        "huvudKat": 2,
+        "underKat": 11
+    },
+    {
+        "id": 31,
+        "prodName": "Breitling Heritage",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 1111,
+        "prodPic": "heritage3.jpg",
+        "huvudKat": 2,
+        "underKat": 11
+    },
+    {
+        "id": 32,
+        "prodName": "Breitling Heritage",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "heritage4.jpg",
+        "huvudKat": 2,
+        "underKat": 11
+    },
+    {
+        "id": 33,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "omega.jpg",
+        "huvudKat": 3,
+        "underKat": 3
+    },
+    {
+        "id": 34,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6999,
+        "prodPic": "omega.png",
+        "huvudKat": 3,
+        "underKat": 3
+    },
+    {
+        "id": 35,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 5555,
+        "prodPic": "omega.jpg",
+        "huvudKat": 3,
+        "underKat": 3
+    },
+    {
+        "id": 36,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6666,
+        "prodPic": "omega.jpg",
+        "huvudKat": 3,
+        "underKat": 3
+    },
+    {
+        "id": 37,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 7777,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 4
+    },
+    {
+        "id": 38,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 8888,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 4
+    },
+    {
+        "id": 39,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 9999,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 4
+    },
+    {
+        "id": 40,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 1111,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 4
+    },
+    {
+        "id": 41,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 8
+    },
+    {
+        "id": 42,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6999,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 8
+    },
+    {
+        "id": 43,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 5555,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 8
+    },
+    {
+        "id": 44,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 6666,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 8
+    },
+    {
+        "id": 45,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 7777,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 9
+    },
+    {
+        "id": 46,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 8888,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 9
+    },
+    {
+        "id": 47,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 9999,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 9
+    },
+    {
+        "id": 48,
+        "prodName": "Omega",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 1111,
+        "prodPic": "bild.jpg",
+        "huvudKat": 3,
+        "underKat": 9
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 13
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 13
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 13
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 13
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 14
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 14
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 14
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 14
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 15
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 15
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 15
+    },
+    {
+        "id": 49,
+        "prodName": "Seiko",
+        "prodDesc": "Klocka som anger tid!",
+        "prodPrice": 2222,
+        "prodPic": "bild.jpg",
+        "huvudKat": 4,
+        "underKat": 15
+    }
+]
